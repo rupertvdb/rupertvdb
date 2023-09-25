@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, simple programming to improve people's lives and the future.
 - 🌱 I’m currently learning Python and integrating AI into workflows. 
 - 💞️ I’m looking to collaborate on AI API work. 
-- 📫 How to reach me rupertvdb@gmail.com
+- 📫 How to reach me wellregarded@gmail.com
 
 <!---
 rupertvdb/rupertvdb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
